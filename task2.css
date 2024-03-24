@@ -1,0 +1,21 @@
+*{  
+    margin: auto;
+    padding: 0px;
+    @import url'https://fonts.googleapis.com/css2?family=Smythe&display=swap'
+
+}
+.star{
+    color: rgb(226, 7, 7);
+}
+.Experience{
+    font-size: small;
+}
+
+
+#Purchase{
+    background-color: rgb(130, 177, 179);
+}
+.text{
+    width: 1200px;
+    height: 200px;
+}
